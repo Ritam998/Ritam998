@@ -50,6 +50,8 @@ RESTful APIs
 🧩 Flagship Projects
 
 🤖 JARVIS-AI — Voice-Enabled Intelligent Assistant
+
+
 📌 Project Overview
 JARVIS-AI is a Python-based voice assistant designed to understand spoken commands, process user intent using Natural Language Processing (NLP), and generate intelligent responses in real time. The project demonstrates an end-to-end AI pipeline, integrating speech recognition, NLP, and backend logic into a modular and extensible system.
 
@@ -70,7 +72,15 @@ Base framework for integrating LLMs and APIs
 
 
 
+
+
+
+
+
+
 🧠 RAYZA — Digital Psychological Support System for Students
+
+
 📌 Project Overview
 RAYZA is an AI-powered digital psychological support system designed to assist students through intelligent chatbot interactions. The system leverages machine learning and NLP techniques to analyze user input and provide supportive, context-aware responses, focusing on accessibility and mental well-being.
 
@@ -92,7 +102,15 @@ AI-based counseling applications
 
 
 
+
+
+
+
+
 💬 Sentiment Chatbot with Database Integration
+
+
+
 📌 Project Overview
 The Sentiment Chatbot is a machine learning-based conversational system that analyzes the sentiment of user messages and stores interaction data in a database. This project highlights real-world ML deployment with backend and database integration for persistent data storage and analysis.
 
