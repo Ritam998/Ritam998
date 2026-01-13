@@ -51,28 +51,12 @@ RESTful APIs
 
 🤖 JARVIS-AI — Voice-Enabled Intelligent Assistant
 
-
-📌 Project Overview
-JARVIS-AI is a Python-based voice assistant designed to understand spoken commands, process user intent using Natural Language Processing (NLP), and generate intelligent responses in real time. The project demonstrates an end-to-end AI pipeline, integrating speech recognition, NLP, and backend logic into a modular and extensible system.
-
-
-⚙️ Key Features
-Speech-to-Text conversion for voice input
-NLP-based intent recognition and response generation
-Modular architecture for easy feature extension
-Real-time user interaction
-🛠️ Tech Stack
-Python/NLP/Machine Learning/Speech Recognition
+• Voice-enabled AI assistant using Speech Recognition + NLP
+• Modular architecture with real-time response handling
+• Built as a base framework for LLM & API integration
 
 
-🎯 Use Case
-Voice-controlled AI assistant
-Task automation and conversational AI
-Base framework for integrating LLMs and APIs
-
-
-
-
+Tech: Python, NLP, Speech Recognition
 
 
 
@@ -80,24 +64,12 @@ Base framework for integrating LLMs and APIs
 
 🧠 RAYZA — Digital Psychological Support System for Students
 
-
-📌 Project Overview
-RAYZA is an AI-powered digital psychological support system designed to assist students through intelligent chatbot interactions. The system leverages machine learning and NLP techniques to analyze user input and provide supportive, context-aware responses, focusing on accessibility and mental well-being.
-
-
-⚙️ Key Features
-AI-driven chatbot interaction
-NLP-based text analysis
-User-friendly conversational flow
-Designed for student mental health support
-🛠️ Tech Stack
-Python/Machine Learning/NLP
+• AI-powered psychological support chatbot for students
+• NLP-based text analysis for context-aware responses
+• Focused on accessibility & mental health support
 
 
-🎯 Use Case
-Student mental health assistance
-Academic stress support systems
-AI-based counseling applications
+Tech: Python, ML, NLP
 
 
 
@@ -109,25 +81,12 @@ AI-based counseling applications
 
 💬 Sentiment Chatbot with Database Integration
 
+• ML-based chatbot for sentiment analysis of user messages
+• Stores conversations in database for analytics
+• Demonstrates backend + ML integration
 
 
-📌 Project Overview
-The Sentiment Chatbot is a machine learning-based conversational system that analyzes the sentiment of user messages and stores interaction data in a database. This project highlights real-world ML deployment with backend and database integration for persistent data storage and analysis.
-
-
-⚙️ Key Features
-Sentiment analysis of user inputs
-Machine learning model integration
-MongoDB database for storing user interactions
-Backend API support
-🛠️ Tech Stack
-Python/Machine Learning/MongoDB/Backend APIs (Flask / FastAPI)
-
-
-🎯 Use Case
-Customer feedback analysis
-Chat-based sentiment tracking systems
-Data-driven conversational AI
+Tech: Python, ML, MongoDB
 
 ## 🚀 Future Enhancements
 - Integration with Large Language Models (LLMs)
