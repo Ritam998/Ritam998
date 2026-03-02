@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🚀 Ritam Das | Data Science • AI • Backend Engineer
 
-🎓 B.Sc. (Hons) Data Science | IAER – MAKAUT
+🎓 Data Science | IAER – MAKAUT
 🤖 AI / Machine Learning Engineer in the making
 ⚙️ Backend & API-driven ML systems
 🔍 Actively seeking Data Science / ML / Backend Internships
