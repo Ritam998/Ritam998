@@ -1,4 +1,4 @@
-<img width="1892" height="955" alt="image" src="https://github.com/user-attachments/assets/a32212a5-de0b-401d-9dc8-541e532239ad" />## Hi there 👋
+<img width="1892" height="955" alt="image" src="https://github.com/user-attachments/assets/a32212a5-de0b-401d-9dc8-541e532239ad" 
 
 <!--
 **Ritam998/Ritam998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
