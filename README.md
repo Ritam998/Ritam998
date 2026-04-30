@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🚀 Ritam Das | Data Science • AI • Backend Engineer
 
 
-https://ritam998.github.io/portfolio/
+https://ritam998.github.io/Portfolio/
 
 
 🎓 Data Science | IAER – MAKAUT
